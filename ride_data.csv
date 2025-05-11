@@ -1,0 +1,51 @@
+ride_id,timestamp,rider_name,pickup_area,dropoff_area,distance_km,base_fare,final_fare,status
+91ceed05-4c7c-4678-a933-48d46d1835d3,2025-05-11 15:08:11,Jose Brown,Christianberg,North Brucemouth,13.9,5.0,25.85,ongoing
+fdafd5d6-03b8-4752-a11e-18cc3b09006b,2025-05-11 15:08:11,Patrick Lee,Huntershire,Port Kimhaven,11.34,5.0,22.01,completed
+7db16626-8f4b-4759-8c5b-78c43989154e,2025-05-11 15:08:11,Andrew Lee,Ronaldton,Morganfurt,18.89,5.0,33.34,cancelled
+3f6e1f86-02ba-4bbc-9809-95a059b47cd8,2025-05-11 15:08:11,Maria Perez,West Andrewberg,New Jeremy,4.05,5.0,11.07,ongoing
+5555b469-6287-4f92-a31f-dec55304702d,2025-05-11 15:08:11,Jason Robinson,Yatesport,Kylemouth,14.39,5.0,26.59,cancelled
+4b4903d8-08e6-4619-a2e1-aba73b0514bf,2025-05-11 15:08:11,Brenda Davis,Garciaside,Lake David,10.3,5.0,20.45,cancelled
+8e6ff82b-027e-4d38-8c0e-af42477ac03a,2025-05-11 15:08:11,Kayla Yang,East Tiffanyfurt,West Jamesside,8.33,5.0,17.5,cancelled
+2de57f02-341a-4790-a8f1-21b4daa1ab9f,2025-05-11 15:08:11,Charles Ortiz,Port Patricia,East Charlottefort,8.0,5.0,17.0,completed
+e5197a13-1fbe-4d70-8b06-8e7c18b1c700,2025-05-11 15:08:11,Samuel Schroeder,Chenland,South Shannon,5.43,5.0,13.14,completed
+db5a7b5d-1579-4f23-aca2-21dc7e994ce4,2025-05-11 15:08:11,Jody Lambert,Lisabury,Campbellbury,15.58,5.0,28.37,ongoing
+439e11a8-264f-4033-b54a-77e9782b18f4,2025-05-11 15:08:11,Elizabeth Reid,Davidchester,Jacksonton,11.51,5.0,22.27,completed
+d6ba4b7f-0bc4-4e0d-b663-76b8acca6338,2025-05-11 15:08:11,Ronald Coleman,Suttonton,Hoffmanfurt,16.8,5.0,30.2,completed
+a1b17f48-cce7-4e0c-bbf7-5162adb0b8b2,2025-05-11 15:08:11,Lisa Bates,Christinastad,Allenside,19.68,5.0,34.52,cancelled
+9aa3e497-18b7-4691-9f0e-0296575428b5,2025-05-11 15:08:11,Karen Wright,West Aprilview,Guerrerofort,16.52,5.0,29.78,completed
+8a5e5dd2-b77f-4ec0-bdb7-cd922997c56d,2025-05-11 15:08:11,Sharon Potts,Kristenfurt,Goodmanborough,4.3,5.0,11.45,completed
+9528f125-cafc-41e4-95f8-ba0ec1ef4769,2025-05-11 15:08:11,Erin Lam,Angelatown,Kathyborough,12.36,5.0,23.54,completed
+7f7e5aed-b82d-48af-ac58-ddca1d541f4b,2025-05-11 15:08:11,Nicholas Pruitt,Davidtown,Maryburgh,18.63,5.0,32.95,cancelled
+456bd5f0-1d63-45b2-9745-9a2acebb0a8f,2025-05-11 15:08:11,Amber Hughes,Williamsview,East Emilyfort,6.1,5.0,14.15,cancelled
+8d80f9a0-033d-4299-a609-7190478433cd,2025-05-11 15:08:11,Charles Rice,Kramerfort,Marymouth,14.68,5.0,27.02,cancelled
+39388ab1-14e1-4677-9613-0668e9ee006d,2025-05-11 15:08:11,Mary Mcmillan,Cervantesland,South Gregory,11.68,5.0,22.52,cancelled
+6914c663-e7c9-4a9d-a018-624022b69801,2025-05-11 15:08:11,Matthew Cardenas,Port Cody,Lake Jared,17.92,5.0,31.88,cancelled
+d6c4cda2-549a-43f8-b758-f41ac56ce30e,2025-05-11 15:08:11,Christy Dodson,Hopkinsview,New Andrea,7.69,5.0,16.54,cancelled
+fc850e18-fd75-42ca-b2e5-d610379208ae,2025-05-11 15:08:11,Adrian Mcconnell,Lake Kevinfurt,East Nicholasmouth,10.11,5.0,20.16,ongoing
+4c933b28-2a8f-4cb3-82f7-93dfda2d7a2f,2025-05-11 15:08:11,Candace Rodriguez,Lake Brandon,Lake Sheila,8.75,5.0,18.12,ongoing
+ff5348e0-76ab-4f0f-b6a9-ed7f2d848d1c,2025-05-11 15:08:11,Valerie Pham,New Daisy,Donnamouth,3.3,5.0,9.95,ongoing
+b2aebdb7-a50a-452e-bb8a-c7454d42d5ed,2025-05-11 15:08:11,Robert Berg,Parkschester,Allenmouth,8.37,5.0,17.55,completed
+f74fa160-f0d5-4e8e-b1ca-47f0b12a8645,2025-05-11 15:08:11,Patrick Moore,New Rachelland,Reedport,5.19,5.0,12.79,cancelled
+5718d7be-4da1-41ee-a4aa-347502c44bea,2025-05-11 15:08:11,Kevin Barker,Jillianland,New Andrewbury,8.77,5.0,18.16,ongoing
+6ef7c711-dd97-400b-a429-dce35513c442,2025-05-11 15:08:11,Martin Mcdowell,East Carla,Yvonnebury,12.61,5.0,23.91,cancelled
+a327e771-0e12-4cdb-aedc-ac44fd514a43,2025-05-11 15:08:11,Latasha Robertson,Williamsport,Heathershire,14.41,5.0,26.62,cancelled
+b9a69b86-19ec-41a4-9c16-655bdeb98c5e,2025-05-11 15:08:11,Brady Lucas,North Isaacchester,Port Elizabethtown,10.85,5.0,21.27,ongoing
+25ba349a-8c7b-4417-b107-356fdb42d165,2025-05-11 15:08:11,Mr. James Young,Houstonburgh,Ramirezberg,3.32,5.0,9.98,cancelled
+c82cae1a-a3c1-4c6b-9fda-989ea749cb5e,2025-05-11 15:08:11,William Russell,Nicholaschester,West Wendytown,15.06,5.0,27.59,cancelled
+8d30608e-73d5-4f5e-95a2-65d59f9be294,2025-05-11 15:08:11,Thomas Watson,East Henry,Tateport,8.73,5.0,18.09,ongoing
+a268259d-2b8d-4415-b7ce-ecd9fd3e2993,2025-05-11 15:08:11,Ryan Graham,Stephenfurt,New Evanview,12.92,5.0,24.38,ongoing
+dd752ccf-4287-40d6-bf42-819f11310833,2025-05-11 15:08:11,Amanda Taylor,Hayesbury,Simsstad,16.3,5.0,29.45,ongoing
+3003d823-73fd-4730-9391-492e39500a90,2025-05-11 15:08:11,Mrs. Melinda Arnold MD,Johnsonchester,South Robertburgh,7.03,5.0,15.54,ongoing
+60d7602f-d639-47fc-84be-7ea4fb0e4a0e,2025-05-11 15:08:11,Jane Liu,West Megan,East Adam,16.13,5.0,29.2,completed
+f28218bb-9cd6-415b-8c44-eca51b263318,2025-05-11 15:08:11,David Lawrence,Jeremyport,South Danaport,1.25,5.0,6.88,cancelled
+cc7b183b-4a19-4512-b908-9a6964d2a249,2025-05-11 15:08:11,Carolyn Gardner,Justinmouth,South Dwaynestad,7.83,5.0,16.75,completed
+a8579cbc-ac78-44bf-b273-59885ec1c250,2025-05-11 15:08:11,Sheri Horne,West Anthonyfurt,Nicolemouth,17.96,5.0,31.94,ongoing
+fea8b5b3-75a7-44b7-813d-c12c0b0163c3,2025-05-11 15:08:11,Danielle Roberts,Brettstad,East Michaelmouth,5.53,5.0,13.29,completed
+87dcc861-9ada-4870-8a42-2f712f7ec1df,2025-05-11 15:08:11,John Clay,Fergusonland,North Danielle,13.3,5.0,24.95,cancelled
+7d7dbe35-65ef-4d9a-9e22-7babe9d97c1e,2025-05-11 15:08:11,Lynn Roberts,Zimmermanfort,East Matthew,12.07,5.0,23.11,cancelled
+0537e2d4-47f9-463c-af53-d699236b005b,2025-05-11 15:08:11,Sarah Jones,Pattersonshire,Port Kennethside,11.67,5.0,22.5,cancelled
+461b3370-9488-4bfa-b6d3-6cc9da49be9a,2025-05-11 15:08:11,John Davidson,Floresbury,West Lukemouth,11.61,5.0,22.41,ongoing
+05775e32-2dde-458d-9f33-d421b583fc56,2025-05-11 15:08:11,Ann Bryant,Port Michaelport,West Richardland,4.83,5.0,12.25,completed
+77a407cb-43dd-4c51-97ce-5fbfe23bbdb1,2025-05-11 15:08:11,Erin Kim,Lake Diamond,South Colleen,3.63,5.0,10.45,cancelled
+1baba1f7-6344-4d2b-b264-563ded2d23a2,2025-05-11 15:08:11,Carlos Wilson,Foleyburgh,Port Jonathanshire,15.55,5.0,28.33,cancelled
+f91a27a1-a22c-4900-bc8a-de9b741cd235,2025-05-11 15:08:11,Lisa West,Lindafurt,Brianside,8.58,5.0,17.87,completed
